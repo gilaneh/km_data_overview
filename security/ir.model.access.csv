@@ -1,0 +1,5 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_km_data_overview_diagram_admins,km_data_overview.diagram,model_km_data_overview_diagram,km_data.group_km_data_admins,1,1,1,1
+access_km_data_overview_diagram_users,km_data_overview.diagram,model_km_data_overview_diagram,km_data.group_km_data_users,1,0,0,0
+access_km_data_overview_location_admins,km_data_overview.location,model_km_data_overview_location,km_data.group_km_data_admins,1,1,1,1
+access_km_data_overview_location_users,km_data_overview.location,model_km_data_overview_location,km_data.group_km_data_users,1,0,0,0
